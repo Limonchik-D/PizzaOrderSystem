@@ -1,0 +1,3245 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\activity.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\activity.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\alarm.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\alarm.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\alert-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\alert-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\alert-triangle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\alert-triangle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\align-center.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\align-center.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\align-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\align-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\align-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\align-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\archive.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\archive.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\arrow-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\arrow-up-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\arrow-up-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\arrow-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\attachment.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\attachment.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\award.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\award.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\bag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\bag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\balloon.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\balloon.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\ban.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\ban.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\battery.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\battery.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\bed.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\bed.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\bold.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\bold.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\book-open.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\book-open.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\bookmark.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\bookmark.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\bot.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\bot.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\brain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\brain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\briefcase.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\briefcase.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\browser.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\browser.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\bug.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\bug.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\calendar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\calendar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\camera.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\camera.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\car.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\car.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\cart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\cart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\chart-bar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\chart-bar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\chart-line.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\chart-line.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\chat.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\chat.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\check-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\check-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\check.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\check.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\checkbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\checkbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\chevron-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\chevron-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\chevron-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\chevron-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\chevron-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\chevron-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\chevron-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\chevron-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\clipboard.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\clipboard.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\clock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\clock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\close-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\close-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\close.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\close.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\cloud-rain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\cloud-rain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\cloud.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\cloud.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\code.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\code.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\coffee.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\coffee.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\command.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\command.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\compass.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\compass.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\copy.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\copy.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\credit-card.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\credit-card.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\crescent.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\crescent.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\crown.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\crown.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\dashboard.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\dashboard.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\database.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\database.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\dirham.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\dirham.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\discount.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\discount.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\download.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\download.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\drop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\drop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\dumbbell.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\dumbbell.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\edit.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\edit.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\expand.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\expand.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\external-link.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\external-link.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\eye.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\eye.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\file-pdf.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\file-pdf.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\file-text.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\file-text.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\file.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\file.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\files.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\files.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\filter.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\filter.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\fingerprint.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\fingerprint.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\fire.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\fire.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\first-aid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\first-aid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\flag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\flag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\flower.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\flower.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\folder-open.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\folder-open.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\folder.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\folder.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\gem.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\gem.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\gift.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\gift.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\git-branch.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\git-branch.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\glasses.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\glasses.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\globe.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\globe.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\graduation-cap.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\graduation-cap.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\grid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\grid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\hammer.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\hammer.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\headphones.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\headphones.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\heart-pulse.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\heart-pulse.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\heart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\heart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\help-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\help-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\home.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\home.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\hourglass.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\hourglass.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\image.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\image.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\inbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\inbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\info-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\info-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\italic.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\italic.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\lantern.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\lantern.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\laptop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\laptop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\layers.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\layers.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\layout-grid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\layout-grid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\layout-sidebar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\layout-sidebar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\leaf.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\leaf.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\lightbulb.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\lightbulb.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\lightning.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\lightning.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\link.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\link.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\list.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\list.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\location.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\location.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\lock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\lock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\login.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\login.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\logout.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\logout.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\luggage.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\luggage.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\magic-wand.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\magic-wand.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\mail.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\mail.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\map.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\map.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\megaphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\megaphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\menu.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\menu.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\message-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\message-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\microphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\microphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\minus.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\minus.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\monitor.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\monitor.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\moon.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\moon.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\more-horizontal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\more-horizontal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\more-vertical.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\more-vertical.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\mosque.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\mosque.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\mountain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\mountain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\music.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\music.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\next.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\next.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\notification.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\notification.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\package.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\package.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\palette.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\palette.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\password.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\password.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\pause.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\pause.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\paw.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\paw.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\phone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\phone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\pie-chart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\pill.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\pill.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\pin.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\pin.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\pizza.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\pizza.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\plane.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\plane.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\play-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\play-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\play.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\play.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\plus-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\plus-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\plus.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\plus.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\previous.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\previous.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\printer.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\printer.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\receipt.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\receipt.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\redo.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\redo.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\refresh.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\refresh.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\saudi-riyal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\saudi-riyal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\search.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\search.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\send.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\send.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\settings.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\settings.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\share.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\share.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\shield.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\shield.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\shirt.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\shirt.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\sliders.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\sliders.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\smartphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\smartphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\smile.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\smile.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\snowflake.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\snowflake.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\sparkles.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\sparkles.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\star.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\star.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\sticky-note.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\sticky-note.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\stop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\stop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\sun.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\sun.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\sync.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\sync.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\table.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\table.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\tablet.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\tablet.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\tag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\tag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\target.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\target.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\terminal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\terminal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\thumbs-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\thumbs-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\thumbs-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\thumbs-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\toolbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\toolbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\train.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\train.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\trash.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\trash.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\tree.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\tree.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\trending-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\trending-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\trophy.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\trophy.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\truck.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\truck.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\type.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\type.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\underline.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\underline.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\undo.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\undo.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\unlock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\unlock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\upload.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\upload.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\user-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\user-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\user-group.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\user-group.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\user.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\user.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\users.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\users.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\utensils.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\utensils.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\verified.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\verified.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\video.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\video.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\volume-high.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\volume-high.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\volume-mute.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\volume-mute.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\wallet.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\wallet.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\watch.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\watch.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\wifi.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\wifi.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\wind.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\wind.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\wrench.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\wrench.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\zoom-in.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\zoom-in.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-solid\\zoom-out.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-solid\\zoom-out.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\activity.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\activity.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\alarm.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\alarm.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\alert-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\alert-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\alert-triangle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\alert-triangle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\align-center.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\align-center.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\align-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\align-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\align-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\align-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\archive.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\archive.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\arrow-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\arrow-up-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\arrow-up-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\arrow-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\attachment.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\attachment.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\award.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\award.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\bag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\bag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\balloon.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\balloon.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\ban.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\ban.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\battery.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\battery.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\bed.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\bed.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\bold.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\bold.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\book-open.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\book-open.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\bookmark.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\bookmark.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\bot.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\bot.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\brain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\brain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\briefcase.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\briefcase.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\browser.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\browser.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\bug.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\bug.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\calendar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\calendar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\camera.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\camera.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\car.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\car.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\cart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\cart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\chart-bar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\chart-bar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\chart-line.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\chart-line.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\chat.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\chat.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\check-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\check-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\check.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\check.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\checkbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\checkbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\chevron-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\chevron-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\chevron-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\chevron-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\chevron-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\chevron-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\chevron-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\chevron-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\clipboard.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\clipboard.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\clock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\clock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\close-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\close-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\close.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\close.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\cloud-rain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\cloud-rain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\cloud.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\cloud.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\code.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\code.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\coffee.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\coffee.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\command.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\command.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\compass.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\compass.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\copy.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\copy.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\credit-card.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\credit-card.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\crescent.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\crescent.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\crown.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\crown.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\dashboard.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\dashboard.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\database.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\database.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\dirham.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\dirham.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\discount.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\discount.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\download.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\download.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\drop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\drop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\dumbbell.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\dumbbell.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\edit.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\edit.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\expand.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\expand.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\external-link.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\external-link.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\eye.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\eye.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\file-pdf.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\file-pdf.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\file-text.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\file-text.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\file.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\file.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\files.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\files.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\filter.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\filter.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\fingerprint.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\fingerprint.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\fire.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\fire.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\first-aid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\first-aid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\flag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\flag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\flower.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\flower.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\folder-open.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\folder-open.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\folder.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\folder.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\gem.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\gem.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\gift.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\gift.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\git-branch.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\git-branch.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\glasses.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\glasses.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\globe.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\globe.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\graduation-cap.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\graduation-cap.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\grid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\grid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\hammer.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\hammer.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\headphones.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\headphones.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\heart-pulse.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\heart-pulse.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\heart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\heart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\help-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\help-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\home.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\home.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\hourglass.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\hourglass.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\image.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\image.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\inbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\inbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\info-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\info-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\italic.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\italic.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\lantern.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\lantern.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\laptop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\laptop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\layers.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\layers.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\layout-grid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\layout-grid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\layout-sidebar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\layout-sidebar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\leaf.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\leaf.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\lightbulb.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\lightbulb.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\lightning.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\lightning.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\link.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\link.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\list.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\list.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\location.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\location.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\lock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\lock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\login.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\login.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\logout.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\logout.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\luggage.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\luggage.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\magic-wand.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\magic-wand.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\mail.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\mail.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\map.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\map.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\megaphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\megaphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\menu.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\menu.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\message-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\message-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\microphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\microphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\minus.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\minus.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\monitor.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\monitor.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\moon.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\moon.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\more-horizontal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\more-horizontal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\more-vertical.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\more-vertical.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\mosque.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\mosque.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\mountain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\mountain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\music.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\music.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\next.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\next.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\notification.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\notification.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\package.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\package.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\palette.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\palette.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\password.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\password.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\pause.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\pause.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\paw.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\paw.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\phone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\phone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\pie-chart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\pill.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\pill.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\pin.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\pin.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\pizza.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\pizza.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\plane.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\plane.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\play-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\play-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\play.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\play.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\plus-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\plus-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\plus.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\plus.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\previous.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\previous.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\printer.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\printer.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\receipt.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\receipt.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\redo.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\redo.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\refresh.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\refresh.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\saudi-riyal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\saudi-riyal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\search.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\search.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\send.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\send.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\settings.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\settings.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\share.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\share.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\shield.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\shield.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\shirt.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\shirt.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\sliders.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\sliders.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\smartphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\smartphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\smile.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\smile.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\snowflake.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\snowflake.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\sparkles.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\sparkles.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\star.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\star.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\sticky-note.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\sticky-note.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\stop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\stop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\sun.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\sun.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\sync.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\sync.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\table.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\table.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\tablet.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\tablet.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\tag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\tag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\target.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\target.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\terminal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\terminal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\thumbs-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\thumbs-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\thumbs-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\thumbs-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\toolbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\toolbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\train.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\train.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\trash.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\trash.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\tree.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\tree.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\trending-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\trending-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\trophy.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\trophy.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\truck.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\truck.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\type.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\type.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\underline.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\underline.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\undo.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\undo.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\unlock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\unlock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\upload.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\upload.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\user-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\user-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\user-group.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\user-group.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\user.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\user.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\users.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\users.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\utensils.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\utensils.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\verified.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\verified.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\video.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\video.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\volume-high.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\volume-high.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\volume-mute.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\volume-mute.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\wallet.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\wallet.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\watch.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\watch.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\wifi.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\wifi.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\wind.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\wind.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\wrench.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\wrench.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\zoom-in.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\zoom-in.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\rounded-stroke\\zoom-out.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\rounded-stroke\\zoom-out.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\activity.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\activity.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\alarm.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\alarm.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\alert-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\alert-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\alert-triangle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\alert-triangle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\align-center.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\align-center.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\align-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\align-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\align-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\align-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\archive.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\archive.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\arrow-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\arrow-up-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\arrow-up-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\arrow-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\attachment.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\attachment.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\award.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\award.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\bag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\bag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\balloon.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\balloon.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\ban.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\ban.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\battery.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\battery.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\bed.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\bed.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\bold.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\bold.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\book-open.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\book-open.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\bookmark.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\bookmark.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\bot.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\bot.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\brain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\brain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\briefcase.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\briefcase.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\browser.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\browser.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\bug.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\bug.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\calendar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\calendar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\camera.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\camera.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\car.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\car.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\cart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\cart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\chart-bar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\chart-bar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\chart-line.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\chart-line.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\chat.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\chat.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\check-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\check-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\check.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\check.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\checkbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\checkbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\chevron-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\chevron-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\chevron-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\chevron-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\chevron-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\chevron-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\chevron-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\chevron-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\clipboard.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\clipboard.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\clock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\clock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\close-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\close-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\close.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\close.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\cloud-rain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\cloud-rain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\cloud.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\cloud.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\code.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\code.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\coffee.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\coffee.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\command.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\command.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\compass.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\compass.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\copy.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\copy.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\credit-card.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\credit-card.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\crescent.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\crescent.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\crown.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\crown.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\dashboard.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\dashboard.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\database.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\database.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\dirham.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\dirham.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\discount.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\discount.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\download.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\download.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\drop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\drop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\dumbbell.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\dumbbell.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\edit.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\edit.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\expand.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\expand.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\external-link.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\external-link.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\eye.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\eye.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\file-pdf.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\file-pdf.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\file-text.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\file-text.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\file.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\file.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\files.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\files.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\filter.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\filter.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\fingerprint.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\fingerprint.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\fire.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\fire.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\first-aid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\first-aid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\flag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\flag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\flower.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\flower.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\folder-open.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\folder-open.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\folder.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\folder.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\gem.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\gem.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\gift.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\gift.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\git-branch.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\git-branch.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\glasses.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\glasses.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\globe.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\globe.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\graduation-cap.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\graduation-cap.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\grid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\grid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\hammer.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\hammer.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\headphones.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\headphones.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\heart-pulse.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\heart-pulse.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\heart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\heart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\help-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\help-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\home.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\home.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\hourglass.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\hourglass.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\image.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\image.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\inbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\inbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\info-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\info-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\italic.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\italic.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\lantern.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\lantern.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\laptop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\laptop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\layers.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\layers.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\layout-grid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\layout-grid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\layout-sidebar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\layout-sidebar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\leaf.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\leaf.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\lightbulb.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\lightbulb.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\lightning.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\lightning.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\link.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\link.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\list.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\list.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\location.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\location.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\lock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\lock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\login.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\login.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\logout.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\logout.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\luggage.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\luggage.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\magic-wand.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\magic-wand.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\mail.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\mail.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\map.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\map.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\megaphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\megaphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\menu.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\menu.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\message-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\message-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\microphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\microphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\minus.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\minus.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\monitor.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\monitor.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\moon.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\moon.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\more-horizontal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\more-horizontal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\more-vertical.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\more-vertical.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\mosque.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\mosque.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\mountain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\mountain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\music.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\music.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\next.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\next.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\notification.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\notification.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\package.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\package.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\palette.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\palette.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\password.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\password.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\pause.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\pause.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\paw.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\paw.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\phone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\phone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\pie-chart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\pill.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\pill.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\pin.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\pin.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\pizza.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\pizza.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\plane.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\plane.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\play-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\play-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\play.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\play.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\plus-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\plus-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\plus.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\plus.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\previous.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\previous.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\printer.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\printer.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\receipt.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\receipt.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\redo.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\redo.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\refresh.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\refresh.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\saudi-riyal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\saudi-riyal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\search.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\search.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\send.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\send.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\settings.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\settings.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\share.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\share.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\shield.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\shield.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\shirt.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\shirt.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\sliders.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\sliders.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\smartphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\smartphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\smile.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\smile.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\snowflake.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\snowflake.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\sparkles.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\sparkles.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\star.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\star.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\sticky-note.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\sticky-note.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\stop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\stop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\sun.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\sun.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\sync.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\sync.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\table.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\table.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\tablet.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\tablet.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\tag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\tag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\target.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\target.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\terminal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\terminal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\thumbs-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\thumbs-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\thumbs-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\thumbs-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\toolbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\toolbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\train.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\train.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\trash.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\trash.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\tree.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\tree.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\trending-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\trending-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\trophy.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\trophy.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\truck.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\truck.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\type.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\type.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\underline.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\underline.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\undo.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\undo.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\unlock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\unlock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\upload.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\upload.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\user-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\user-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\user-group.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\user-group.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\user.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\user.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\users.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\users.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\utensils.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\utensils.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\verified.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\verified.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\video.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\video.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\volume-high.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\volume-high.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\volume-mute.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\volume-mute.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\wallet.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\wallet.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\watch.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\watch.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\wifi.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\wifi.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\wind.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\wind.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\wrench.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\wrench.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\zoom-in.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\zoom-in.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-solid\\zoom-out.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-solid\\zoom-out.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\activity.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\activity.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\alarm.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\alarm.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\alert-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\alert-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\alert-triangle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\alert-triangle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\align-center.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\align-center.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\align-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\align-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\align-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\align-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\archive.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\archive.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\arrow-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\arrow-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\arrow-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\arrow-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\arrow-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\arrow-up-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\arrow-up-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\arrow-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\arrow-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\attachment.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\attachment.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\award.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\award.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\bag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\bag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\balloon.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\balloon.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\ban.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\ban.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\battery.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\battery.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\bed.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\bed.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\bold.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\bold.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\book-open.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\book-open.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\bookmark.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\bookmark.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\bot.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\bot.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\brain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\brain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\briefcase.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\briefcase.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\browser.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\browser.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\bug.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\bug.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\calendar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\calendar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\camera.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\camera.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\car.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\car.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\cart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\cart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\chart-bar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\chart-bar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\chart-line.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\chart-line.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\chat.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\chat.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\check-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\check-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\check.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\check.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\checkbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\checkbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\chevron-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\chevron-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\chevron-left.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\chevron-left.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\chevron-right.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\chevron-right.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\chevron-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\chevron-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\clipboard.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\clipboard.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\clock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\clock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\close-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\close-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\close.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\close.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\cloud-rain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\cloud-rain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\cloud.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\cloud.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\code.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\code.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\coffee.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\coffee.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\command.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\command.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\compass.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\compass.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\copy.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\copy.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\credit-card.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\credit-card.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\crescent.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\crescent.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\crown.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\crown.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\dashboard.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\dashboard.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\database.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\database.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\dirham.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\dirham.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\discount.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\discount.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\download.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\download.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\drop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\drop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\dumbbell.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\dumbbell.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\edit.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\edit.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\expand.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\expand.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\external-link.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\external-link.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\eye.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\eye.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\file-pdf.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\file-pdf.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\file-text.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\file-text.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\file.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\file.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\files.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\files.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\filter.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\filter.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\fingerprint.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\fingerprint.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\fire.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\fire.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\first-aid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\first-aid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\flag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\flag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\flower.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\flower.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\folder-open.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\folder-open.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\folder.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\folder.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\gem.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\gem.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\gift.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\gift.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\git-branch.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\git-branch.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\glasses.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\glasses.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\globe.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\globe.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\graduation-cap.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\graduation-cap.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\grid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\grid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\hammer.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\hammer.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\headphones.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\headphones.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\heart-pulse.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\heart-pulse.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\heart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\heart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\help-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\help-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\home.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\home.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\hourglass.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\hourglass.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\image.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\image.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\inbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\inbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\info-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\info-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\italic.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\italic.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\lantern.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\lantern.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\laptop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\laptop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\layers.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\layers.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\layout-grid.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\layout-grid.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\layout-sidebar.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\layout-sidebar.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\leaf.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\leaf.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\lightbulb.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\lightbulb.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\lightning.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\lightning.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\link.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\link.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\list.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\list.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\location.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\location.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\lock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\lock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\login.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\login.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\logout.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\logout.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\luggage.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\luggage.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\magic-wand.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\magic-wand.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\mail.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\mail.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\map.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\map.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\megaphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\megaphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\menu.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\menu.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\message-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\message-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\microphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\microphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\minus.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\minus.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\monitor.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\monitor.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\moon.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\moon.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\more-horizontal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\more-horizontal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\more-vertical.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\more-vertical.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\mosque.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\mosque.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\mountain.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\mountain.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\music.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\music.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\next.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\next.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\notification.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\notification.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\package.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\package.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\palette.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\palette.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\password.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\password.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\pause.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\pause.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\paw.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\paw.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\phone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\phone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\pie-chart.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\pie-chart.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\pill.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\pill.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\pin.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\pin.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\pizza.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\pizza.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\plane.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\plane.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\play-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\play-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\play.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\play.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\plus-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\plus-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\plus.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\plus.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\previous.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\previous.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\printer.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\printer.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\receipt.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\receipt.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\redo.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\redo.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\refresh.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\refresh.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\saudi-riyal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\saudi-riyal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\search.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\search.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\send.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\send.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\settings.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\settings.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\share.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\share.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\shield.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\shield.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\shirt.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\shirt.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\sliders.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\sliders.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\smartphone.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\smartphone.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\smile.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\smile.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\snowflake.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\snowflake.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\sparkles.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\sparkles.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\star.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\star.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\sticky-note.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\sticky-note.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\stop.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\stop.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\sun.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\sun.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\sync.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\sync.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\table.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\table.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\tablet.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\tablet.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\tag.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\tag.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\target.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\target.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\terminal.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\terminal.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\thumbs-down.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\thumbs-down.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\thumbs-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\thumbs-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\toolbox.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\toolbox.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\train.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\train.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\trash.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\trash.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\tree.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\tree.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\trending-up.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\trending-up.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\trophy.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\trophy.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\truck.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\truck.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\type.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\type.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\underline.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\underline.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\undo.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\undo.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\unlock.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\unlock.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\upload.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\upload.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\user-circle.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\user-circle.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\user-group.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\user-group.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\user.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\user.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\users.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\users.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\utensils.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\utensils.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\verified.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\verified.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\video.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\video.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\volume-high.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\volume-high.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\volume-mute.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\volume-mute.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\wallet.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\wallet.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\watch.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\watch.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\wifi.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\wifi.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\wind.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\wind.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\wrench.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\wrench.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\zoom-in.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\zoom-in.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\icons\\neat-icons-free\\sharp-stroke\\zoom-out.svg",
+      "PackagePath": "staticwebassets\\icons\\neat-icons-free\\sharp-stroke\\zoom-out.svg"
+    },
+    {
+      "Id": "C:\\Код\\PizzaOrderSystem\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PizzaOrderSystem.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PizzaOrderSystem.props",
+      "PackagePath": "build\\PizzaOrderSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PizzaOrderSystem.props",
+      "PackagePath": "buildMultiTargeting\\PizzaOrderSystem.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PizzaOrderSystem.props",
+      "PackagePath": "buildTransitive\\PizzaOrderSystem.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
